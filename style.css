@@ -334,8 +334,7 @@ body{
     margin-left: 700px;
     background: #f4f4f4;
     max-width: 550px;
-
-    
+    border-radius: 15px;    
 }
 .layout--form h2{
     margin-left: 90px;
