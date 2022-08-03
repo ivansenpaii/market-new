@@ -330,7 +330,7 @@ body{
 /* */
 
 .layout--form{
-    margin-top: 130px;
+    margin-top: 60px;
     margin-left: 700px;
     background: #f4f4f4;
     max-width: 550px;
@@ -403,5 +403,3 @@ body{
     font-size: large;
 
 }
-
-               
