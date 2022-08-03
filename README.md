@@ -6,7 +6,6 @@
 https://drawsql.app/--794/diagrams/lamoda
 ![image](https://user-images.githubusercontent.com/65483938/182165946-5cb8b624-cf1c-42a5-9bf1-924d398214dd.png)
 ![image](https://user-images.githubusercontent.com/65483938/182166125-80c9f8b2-7420-4c06-a812-41fece2bfdba.png)
-![image](https://user-images.githubusercontent.com/65483938/182424090-1a1ecf8a-9702-42f0-9825-7f90f6888a4b.png)
-
+![image](https://user-images.githubusercontent.com/65483938/182627914-c8948ae9-42d1-451d-8ec1-94f3521465f4.png)
 ![image](https://user-images.githubusercontent.com/65483938/182413256-fcadf08f-cd47-4e41-bcbf-60a5a8d6fc14.png)
 
