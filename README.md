@@ -1,4 +1,4 @@
-Работал в OpenServer'е рабочая папка localhost
+
 ![image](https://user-images.githubusercontent.com/65483938/182628038-592742d8-b250-4b32-b55f-01128ddf39af.png)
 ![image](https://user-images.githubusercontent.com/65483938/182629266-6c9566a3-f2e1-4818-b369-b4c473c69614.png)
 ![image](https://user-images.githubusercontent.com/65483938/182165764-05a7ce29-30a2-47e8-8257-cd04c8aa4fed.png)
